@@ -13,8 +13,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: 
 - 😄 Pronouns: he/him
 
-guys add this to your GitHub profiles i.e the repository with your username's readme file## 💻 Competitive Programming
-
 ### LeetCode Progress
 
 ![LeetCode Stats](https://leetcode.card.workers.dev/?username=hgxwi2YJbf&theme=dark&font=baloo)
